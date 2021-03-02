@@ -1,0 +1,2 @@
+model_checkpoint_path: "lstm-model.ckpt"
+all_model_checkpoint_paths: "lstm-model.ckpt"
