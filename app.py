@@ -29,7 +29,7 @@ def main():
 
     
     # Tokenization
-    df = pd.read_csv("/content/final_song_df.csv")
+    df = pd.read_csv("final_song_df.csv")
     tokenizer = Tokenizer()
     tokenizer.fit_on_texts(df['Lyric'].astype(str).str.lower())
 
