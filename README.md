@@ -1,5 +1,8 @@
 # song-lyrics-generator
 
+# Data
+Data is scraped using **Genius.com API** and **BeautifulSoup**
+
 # Overview
 I have made a streamlit app which is using the text generation technique which generates the song lyrics
 
